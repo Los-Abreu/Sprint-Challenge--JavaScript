@@ -39,7 +39,7 @@ console.log(consume("Mary", "Poppins", greeting)); // Hello Mary Poppins, nice t
 
 // Explanation: 
 
-'Nestedfunction' has access to the variable 'internal' because of closure. It allows accessibility by any internal functions within the outside functions scope.
+// 'Nestedfunction' has access to the variable 'internal' because of closure. It allows accessibility by any internal functions within the outside functions scope.
 
 const external = "I'm outside the function";
 
